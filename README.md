@@ -4,7 +4,7 @@
 <h3 align="center"> Proyecto final del primer track de Certified Tech Developer </h3>  
 
 </br>
-
+	 
 <p align="center"> 
   <img src="/Recursos/example.png" alt="Sample cap" width="70%" height="70%">
 </p>
