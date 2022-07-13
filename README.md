@@ -129,7 +129,7 @@ El objetivo fundamental del proyecto es el aprendizaje y la puesta en práctica 
 | 🚀 | **[Sprint 1](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/1#tab-issues)** | 18 / 18 | jue May 26 2022 |
 | 🚀 | **[Sprint 2](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/2#tab-issues)** | 30 / 31 | jue Jun 09 2022 |
 | 🚀 | **[Sprint 3](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/3#tab-issues)** | 24 / 26 | jue jun 23 2022 |
-| 🚀 | **[Sprint 4](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/4#tab-issues)** | 10 / 12 | jue jul 07 2022 |
+| 🚀 | **[Sprint 4](https://gl.deitech.online/ctd/proyecto-integrador-0522/0821-c1/grupo-10/-/milestones/4#tab-issues)** | 12 / 12 | jue jul 07 2022 |
 <p align="justify"> 
   Los objetivos de este proyecto son:
 <ol>
